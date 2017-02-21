@@ -17,7 +17,7 @@ import java.util.StringTokenizer;
 public class WordCount {
     public static final String INPUT = "hdfs://localhost:9000/input/wordcount/a.txt";
 
-    public static final String OUT_PUT = "hdfs://localhost:9000/output/wordcount3";
+    public static final String OUT_PUT = "hdfs://localhost:9000/output/wordcount4";
 
     public static class TokenizerMapper extends Mapper<Object, Text, Text, IntWritable> {
 

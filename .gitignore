@@ -1,0 +1,14 @@
+.idea
+*.iml
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+logs
+/build
+gradle
+.DS_Store
+.gradle
+/bin/
+.project
+.classpath
+.settings/
